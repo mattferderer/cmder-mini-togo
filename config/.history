@@ -1,0 +1,893 @@
+cd ..
+ls
+cd ..
+exit
+cd Downloads\
+git clone https://github.com/powerline/fonts.git
+cd fonts\
+ls
+./install.ps1
+install.ps1
+explorer
+explorer .
+cd ..
+cd DevLocal\
+cd basin-electric-website\
+ls
+cd Downloads\
+git clone https://github.com/AmrEldib/cmder-powerline-prompt.git
+cd cmder-powerline-prompt\
+explorer .
+ls
+dir
+pwd
+cd Downloads\
+cd cmder-powerline-prompt\
+exit
+cd Downloads\cmder-powerline-prompt\
+ls
+exit
+cd Downloads\cmder-powerline-prompt\
+ls
+exit
+cd Downloads\cmder-powerline-prompt\
+ls
+ls
+cd Downloads\
+cd cmder-powerline-prompt\
+cd
+exit
+cd Downloads\cmder-powerline-prompt\
+cd Downloads\
+git clone https://github.com/Falkor/dotfiles
+cd dotfiles\
+cd fonts\
+cd \Windows\
+ls
+explorer .
+cd Downloads\
+cd cmder-powerline-prompt\
+emoji
+
+
+
+
+cd Downloads\cmder-powerline-prompt\
+ls
+exit
+cd Downloads\gatsbyblog\
+cd Downloads\gatsbyblog
+cd DevLocal\basin-retiree-website\
+git status
+git clone https://github.com/Falkor/dotfiles
+cd dotfiles\
+cd fonts\
+cd \Windows\
+ls
+explorer .
+emoji
+
+
+
+
+cd Downloads\cmder-powerline-prompt\
+exit
+cd Downloads\
+cd cmder-powerline-prompt\
+lc
+cd ..\..\DevLocal\basin-electric-website\
+git branch
+cd ../
+cd basin-retiree-website\
+cd ..\basin-electric-website\
+git add *
+git commit -m "updated yarn.lock"
+git reset hard
+git reset --hard
+git origin
+git remote
+git remote origin
+cd ..\..\Downloads\gatsbyblog\
+git status
+vi tslint.json
+git --no-optional-locks status --porcelain 2>nul
+git remote get-url origin
+ls
+cd DevLocal\basin-electric-website\
+git log
+cd Downloads\gatsbyblog\
+git rev-parse HEAD 2> /dev/null
+git rev-parse HEAD
+git rev-parse HEAD 2>
+git log --pretty=oneline -n1
+git log --pretty=oneline -n1 2> /dev/null | wc -l
+git status
+cd ../
+git clone https://github.com/arialdomartini/oh-my-git.git
+code oh-my-git\
+cd DevLocal\basin-retiree-website\
+git log
+exit
+ls
+cd ..\Users\a9247\
+cd Downloads\gatsbyblog\
+git log
+git log --pretty=oneline --topo-order --left-right
+gt ev-parse --syblic-full-nam --bbre-ef @{upstream
+gt ev-parse --syboic-full-name -abe-rf@{psra}q
+q
+gtre-pre -ymolcfulnae -bbe-rf {psram
+exit
+cd Downloads\gatsbyblog\
+cd ..\cmder-powerline-prompt\
+yarn build
+ping basinretiree.com
+exit
+cd Downloads\EntityFramework.Docs\
+git status
+exit
+cd Downloads\EntityFramework.Docs\
+exit
+cd Downloads\EntityFramework.Docs\
+exit
+cd Downloads\EntityFramework.Docs\
+exit
+cd Downloads\EntityFramework.Docs\
+cd Downloads\EntityFramework.Docs\
+cd Downloads\EntityFramework.Docs\
+exit
+exit
+cd Downloads\EntityFramework.Docs\
+cd Downloads\EntityFramework.Docs\
+cd Downloads\EntityFramework.Docs\
+cd Downloads\gatsbyblog\
+cd Downloads\gatsbyblog\
+cd Downloads\gatsbyblog\
+git rev-parse --symbolic-full-name --abbrev-ref @{upstream}
+cd Downloads\gatsbyblog\
+cd Downloads\gatsbyblog\
+cd Downloads\gatsbyblog\
+exit
+cd Downloads\gatsbyblog\
+cd Downloads\gatsbyblog\
+cd Downloads\gatsbyblog\
+cd Downloads\gatsbyblog\
+cd 
+exit
+cd Downloads\EntityFramework.Docs\
+cd ../
+cd gatsbyblog\
+git rev-parse HEAD
+git rev-parse --symbolic-full-name --abbrev-ref @{upstream}
+ls
+cd ..\Users\a9247\
+cd Downloads\gatsbyblog\
+git log --pretty=oneline --topo-order --left-right
+gt ev-parse --syblic-full-nam --bbre-ef @{upstream
+gt ev-parse --syboic-full-name -abe-rf@{psra}q
+q
+gtre-pre -ymolcfulnae -bbe-rf {psram
+exit
+git log
+cd ..\Users\a9247\Downloads\gatsbyblog\
+git checkout master
+git checkout dotnetcore21jwtapi 
+git log --pretty=oneline -n1
+git rev-parse --abbrev-ref HEAD
+git status
+cd ..\cmder-powerline-prompt\
+git status --porcelain
+git log --pretty=oneline --topo-order --left-right 82f8d69005282bfb460716d3ef6025b25b9c72a2
+$(git rev-parse --symbolic-full-name --abbrev-ref @{upstream}
+git log --pretty=oneline --topo-order --left-right 82f8d69005282bfb460716d3ef6025b25b9c72a2...origin/master
+cd ..\EntityFramework.Docs\
+git log --pretty=oneline --topo-order --left-right 6fb28886b0cc966b5d02193e4e74c8d81495c496...origin/patch-1
+git --no-optional-locks status --porcelain 2>nul
+git --no-optional-locks status --porcelain
+git rev-parse --symbolic-full-name --abbrev-ref @{upstream}
+cd ../
+git rev-parse HEAD
+git rev-parse HEAD 2> /dev/null
+cd \
+ls
+dir
+cd FlightFinder.Server\
+dotnet restore
+dotnet run
+git rev-parse HEAD 2> /dev/null
+cd \
+dir
+cd Downloads\
+git clone https://github.com/aspnet/samples.git
+cd samples\
+cd aspnetcore\blazor\
+ls
+code FlightFinder\
+cd /
+cd Oracle11GR2\product\11.2.0\client_1\network\admin\
+ls
+npm i -g azure-functions-cli
+ls
+cd Downloads\
+mkdir testazfun
+cd testazfun\
+func init
+code
+cd Downloads\
+ls
+cd ga
+code .
+exit
+cd Downloads\
+git clone https://github.com/OdeToCode/BeaverLeague.git
+code BeaverLeague\
+exit
+tnsping IKW10ODS
+cd Downloads\
+git clone https://github.com/rajeshdas85/JwtAuthentication.git
+code JwtAuthentication\
+exit
+exit
+cd ../../
+ls
+dotnet new --help
+dotnet new TodoApi.Tests
+dotnet new xunit -o TodoApi.Tests
+dotnet
+dotnet nuget 
+gpupdate /force
+exit
+\\hdqdata
+cd \\hdqdata
+exit
+git status
+git log
+cd DevLocal\
+cd basin-electric-website\
+code .
+vi
+exit
+cd Downloads\
+dotnet new --help
+dotnet new reactredux -o TestReactReduxDelete
+cd TestReactReduxDelete\
+code .
+yarn add gatsby-remark-autolink-headers
+cd TestReactReduxDelete\
+code .
+yarn add gatsby-remark-autolink-headers
+git remote remove origin
+git remote -remove origin
+git remote
+git remote set-url https://matt_ferderer@bitbucket.org/matt_ferderer/blog.git
+git remote add origin https://matt_ferderer@bitbucket.org/matt_ferderer/blog.git
+git remote -v
+cd DevLocal\
+code basinmembers\
+exit
+git remote
+git remote set-url https://matt_ferderer@bitbucket.org/matt_ferderer/blog.git
+git remote add origin https://matt_ferderer@bitbucket.org/matt_ferderer/blog.git
+git checkout -b testDate filter
+git checkout -b testDateFilter
+yarn install
+yarn dev
+git remote -v
+gulp 
+gulp compile:sass
+git clone https://github.com/Vagr9K/gatsby-material-starter.git
+code gatsby-material-starter\
+git clone https://github.com/Vagr9K/gatsby-material-starter.git
+code gatsby-material-starter\
+yarn css
+git checkout -b testDateFilter
+git remote -v
+gulp 
+gulp compile:sass
+git clone https://github.com/Vagr9K/gatsby-material-starter.git
+code gatsby-material-starter\
+git clone https://github.com/Vagr9K/gatsby-material-starter.git
+code gatsby-material-starter\
+yarn css
+git checkout master
+git merge -
+yarn install
+yarn dev
+git status
+git log
+q
+git remote
+gitremte
+ls
+exit
+exit
+git clone https://github.com/theplatapi/react-disqus-thread.git
+code react-disqus-thread\
+exit
+git clone https://github.com/mattferderer/react-disqus-thread.git
+code react-disqus-thread\
+exit
+yarn upgrade
+code react-disqus-thread\
+exit
+git clone https://github.com/mattferderer/react-disqus-thread.git
+code react-disqus-thread\
+exit
+yarn upgrade
+yarn install -help
+yarn install
+yarn add prismjs
+yarn add react-helmet
+yarn dev
+gatsby build
+yarn dev
+git checkout master
+git merge -
+func host
+func --help
+func run getnancy
+func run getnancy
+azfun --help
+func function 
+func function run getnancy
+func function run getnancy
+powershell
+powershell
+func function
+func
+func run
+func run -f TimeTriggerCSharp1/run.csx
+func run -f getnancy.csproj
+yarn dev
+git checkout master
+git merge -
+git branches
+git branch -D discus
+git branch -D testDateFilter
+git branch -D testHeaders
+git branch
+git branch -D cssExternalScript
+git add *
+git commit -m "Add final code and links to debugging locally"
+git status
+git push origin
+    git push --set-upstream origin dotNetStartupArticle
+git status
+git push origin
+    git push --set-upstream origin dotNetStartupArticle
+git branch remove csp-draft
+git branch -help
+git branch -D csp-draft
+git branch -D remove
+git branch
+git add -B whatIsJWT
+bombardier
+exit
+bombardier
+exit
+dotnet restor
+dotnet
+dotnet run -c Release
+    git push --set-upstream origin dotNetStartupArticle
+git status
+git push origin
+    git push --set-upstream origin dotNetStartupArticle
+git branch remove csp-draft
+git branch -help
+git branch -D csp-draft
+git branch -D remove
+git branch
+git add -B whatIsJWT
+exit
+go
+bombardier
+go packages
+packages
+go list 
+cd go\
+cd bin\
+ls
+bombardier.exe -c 10 -n 20 http://basinelectric.com
+bombardier -c 125 -n 5000000 http://localhost:5000/api/values/5
+bombardier -c 125 -n 50000 http://localhost:5000/api/values/5
+bombardier -c 125 -n 500000 http://localhost:5000/api/values/5
+dotnet run -c Release
+git branch remove csp-draft
+git branch -help
+git branch -D csp-draft
+git branch -D remove
+git branch
+git add -B whatIsJWT
+ cd DevLocal\
+code basinmembers\
+cd ..\Downloads\
+cd \c\
+c:
+dir
+pwd
+cd c:\Go\.
+cd bin
+go
+cd ~\
+cd ~
+cd \~
+cd ..\..\Users\a9247\Downloads\
+c:\go\bin\go get -u github.com/codesenberg/bombardier
+
+ls
+ls cod*
+ls test*
+ls *bom
+ls bom*
+cd Downloads\
+git clone https://github.com/emonney/QuickApp.git
+code QuickApp\
+ls cod*
+ls test*
+ls *bom
+ls bom*
+cd Downloads\
+npm install generator-toucan
+mkdir toucantest
+cd toucantest\
+yo
+npm install -g generator-toucan
+yo toucan
+code .
+exit
+git status
+git push
+git fetch
+git push origin master
+yarn build
+git push origin
+    git push --set-upstream origin dotNetStartupArticle
+yarn add antd
+yarn dev
+exit
+cd src\server\
+dotnet run
+yarn dev
+git clone https://github.com/fekberg/Pluralsight.git
+vs
+visualstudio
+cd Pluralsight\
+explore
+explore .
+explorer .
+ifconfig
+ipconfig
+vs
+visualstudio
+cd Pluralsight\
+explore
+explore .
+explorer .
+yarn upgrade shared-components
+yarn upgrade basin-components
+yarn install
+yarn update
+yarn upgrade
+yarn dev
+yarn build-css
+yarn build-css
+git clone https://github.com/fekberg/Pluralsight.git
+vs
+visualstudio
+cd Pluralsight\
+explore
+explore .
+explorer .
+tsc -c
+npm install -g typescript@latest
+tsc -v
+git status
+yarn build
+cd Downloads\
+cd API-Auth0\
+ls
+npm install -g create-react-app
+create-react-app react-auth0
+code react-auth0\
+exit
+code react-auth0\
+exit
+npm install --save auth0-js
+npm install --save react-router-dom
+npm start
+cmd -cur_console:n cmd -cur_console:s1TVn cmd -cur_console:s1THn cmd -cur_console:s2THn
+npm install --save react-router-dom
+npm start
+cmd -cur_console:n cmd -cur_console:s1TVn cmd -cur_console:s1THn cmd -cur_console:s2THn
+npm install -g jest-cli
+npm install --save jest-cli
+yarn test
+cmd -cur_console:n cmd -cur_console:s1TVn cmd -cur_console:s1THn cmd -cur_console:s2THn
+yarn start
+exit
+yarn test
+cmd -cur_console:n cmd -cur_console:s1TVn cmd -cur_console:s1THn cmd -cur_console:s2THn
+yarn start
+λ python -m pip install -U pylint --user
+python -m pip install -U pylint --user
+cd DevLocal\
+py .\gis-stats-to-file.py 
+pip install httplib urllib urllib2 json 
+python pip install httplib urllib urllib2 json 
+python -m pip install httplib urllib urllib2 json 
+pip
+python pip
+ls
+python -m pip
+python -m pip install httplib
+python -m pip install upgrade pip
+exit
+python --version
+python -m pip install --upgrade pip
+cd DevLocal\
+mkdir gis-stats-test
+cd gis-stats-test\
+code .
+python -m pip install httplib
+pip install httplib2
+python -m pip install httplib2
+python -m pip install httplib3
+python -m pip install urllib3
+ls
+python .\gis-stats-to-file.py 
+python -m pip install urllib3
+ls
+py .\gis-stats-to-file.py 
+python .\gis-stats-to-file.py 
+node .\proxy.js 
+start ConEmu -cmdlist cmd -cur_console:fn ^|^|^| cmd -cur_console:s1TVn ^|^|^| cmd -cur_console:s1THn ^|^|^| cmd -cur_console:s2THn
+ls
+light-server -s . -p 7000
+powershell
+git checkout master
+git merge -
+git branch -D blazor-no-registered-service-of-type 
+git branch
+git push origin
+git push --set-upstream origin whatIsJWT
+git branch -D dotNetStartupArticle 
+ping http://gistest.bepc.com/
+ping gistest.bepc.com/
+telnet gistest.bepc.com 80
+telnet
+telnet gistest.bepc.com 80
+telnet gistest.bepc.com 443
+cd Downloads\
+git clone https://github.com/IdentityServer/IdentityServer4.Quickstart.UI.git
+cd IdentityServer4.Quickstart.UI\
+explorer
+explorer .
+exit
+explorer
+exit
+lscd AppData\
+cd AppData\
+ls Local
+ls Roaming\
+ls Roaming\npm
+ls Roaming\npm\node_modules\
+ls Roaming\npm\node_modules\@types\
+cd Roaming\npm\node_modules\@types\
+pwd
+cd jquery\
+ls
+explorer .
+cd Downloads\
+git clone https://github.com/tonsky/FiraCode.git
+cd FiraCode
+ls
+ls distr\
+explorer distr\
+cd firacode
+cd Downloads\firacode
+c .
+exit
+npm install -g @types/jquery
+explorer distr\
+cd firacode
+cd Downloads\firacode
+c .
+exit
+npm install -g @types/jquery
+yarn rebuild node-sass
+yarn upgrade node-sass node-sass-chokidar
+npm rebuild node-sass
+yarn install
+yarn dev
+git merge -
+ping dmzv8010
+cd DevLocal\
+mkdir fusionp8
+code fusionp8\
+exit
+cd Downloads\firacode
+c .
+exit
+npm install -g @types/jquery
+yarn rebuild node-sass
+yarn upgrade node-sass node-sass-chokidar
+npm rebuild node-sass
+yarn install
+yarn build
+tsc --help
+tsc src/index.ts
+tsc dev
+tsc 
+tsc src\index.ts
+tsc
+yarn upgrade storybook/react storybook/addon-actions storybook/addon-info storybook/addon-knobs
+yarn upgrade --help
+yarn upgrade
+yarn dev
+git merge -
+git add src\DrupalContainers\RelatedVideo\index.tsx
+git status
+git commit -m "Add type to relatedVideo Styles"
+git add build\*
+composer self-update
+ls
+composer require acquia/lightning:~3.1.4 --no-update
+composer require acquia/lightning:~3.1.4 --with-all-dependencies
+composer update acquia/lightning --with-all-dependencies
+composer update 
+composer cleanup-vcs-dirs
+cd docroot\
+drush updatedb
+git checkout Update8.5.4
+git checkout -b Update8.5.4
+git add *
+nodeserver
+yarn upgrade
+yarn dev
+git merge -
+git add src\DrupalContainers\RelatedVideo\index.tsx
+git commit -m "Add type to relatedVideo Styles"
+git add build\*
+composer self-update
+composer require acquia/lightning:~3.1.4 --no-update
+composer require acquia/lightning:~3.1.4 --with-all-dependencies
+composer update acquia/lightning --with-all-dependencies
+composer update 
+composer cleanup-vcs-dirs
+cd docroot\
+drush updatedb
+git checkout Update8.5.4
+git checkout -b Update8.5.4
+nodeserver
+cd Downloads\BlazorTest\
+dotnet publish -c Release
+git remote add origin https://github.com/mattferderer/blazornetlify.git
+git push -u origin master
+code .
+cd ../
+dotnet publish -c release -o dist
+dotnet publish -c release -o ./dist
+ls BlazorTest
+rmdir BlazorTest\dist
+ls BlazorTest\dist\
+ls BlazorTest\dist\dist
+rmdir -rf BlazorTest\dist
+explorer
+explorer .
+dotnet publish -c release -o ../dist
+git status
+git add *
+git commit -m "add dist"
+git push origin
+cd wwwroot\
+cd ..\..\dist\
+cd BlazorTest\
+cd dist\
+ls
+git status
+git commit -m "Add type to relatedVideo Styles"
+git add build\*
+composer self-update
+composer require acquia/lightning:~3.1.4 --no-update
+composer require acquia/lightning:~3.1.4 --with-all-dependencies
+composer update acquia/lightning --with-all-dependencies
+composer update 
+composer cleanup-vcs-dirs
+cd docroot\
+drush updatedb
+git checkout Update8.5.4
+git checkout -b Update8.5.4
+git add *
+cd Downloads\BlazorTest\BlazorTest\wwwroot\
+cd ..\obj\Release\
+cd netstandard2.0\
+ls blazor
+ls Pages\
+ls Shared\
+cd blazor
+cd ../../../../
+cd ../
+dotnet publish -c Release
+cd BlazorTest\bin\Release\netstandard2.0\publish\
+cd BlazorTest\
+cd dist\
+nodeserver
+cd ~
+cd /
+cd Users\a9247\Downloads\
+dotnet 
+dotnet new --help
+dotnet new 
+dotnet new -i Microsoft.AspNetCore.Blazor.Templates
+dotnet new blazor -o testdelete
+cd testdelete\
+dotnet publish -c release -o ../dist
+cd ..\dist\
+cd ..\testdelete\
+dotnet publish -c release -o ./dist
+ls
+ls dist\
+ls dist\testdelete\
+ls dist\testdelete\dist\
+
+ls dist\testdelete\dist\
+cd DevLocal\
+cd basin-retiree-website\
+ls
+vi server.js 
+exit
+yarn dev
+dotnet 
+dotnet new --help
+dotnet new 
+dotnet new -i Microsoft.AspNetCore.Blazor.Templates
+dotnet new blazor -o testdelete
+cd testdelete\
+dotnet publish -c release -o ../dist
+cd ..\dist\
+cd ..\testdelete\
+dotnet publish -c release -o ./dist
+ls
+ls dist\
+ls dist\testdelete\
+ls dist\testdelete\dist\
+ls dist\testdelete\dist\
+cd DevLocal\
+cd basin-retiree-website\
+ls
+vi server.js 
+exit
+yarn dev
+yarn install
+yarn develop
+git checkout master
+git merge -
+git push origin
+git checkout master
+git merge -
+git push origin
+cd Downloads\ga
+yarn upgrade
+yarn upgrade --latest
+gatsby info
+git checkout master
+git merge -
+git push origin
+git remote origin
+git remote get-url origin
+git remote add -m github https://github.com/mattferderer/gatsbyblog.git
+git remote add github https://github.com/mattferderer/gatsbyblog.git
+git remote
+npm install -g gatsby-cli
+gatsby info
+yarn dev
+gatsby build
+cd public\
+nodeserver 
+git push github master
+exit
+nodeserver 
+git push github master
+nodeserver
+ls
+nodeserver --help
+python -m SimpleHTTPServer 8000
+git checkout master
+git merge -
+git push origin
+git remote origin
+git remote get-url origin
+git remote add -m github https://github.com/mattferderer/gatsbyblog.git
+git remote add github https://github.com/mattferderer/gatsbyblog.git
+git remote
+npm install -g gatsby-cli
+gatsby info
+yarn dev
+gatsby build
+cd public\
+nodeserver 
+git push github master
+tsc
+tsc index.ts
+tsc
+tsc index.ts
+yarn build
+yarn dev
+tsc
+tsc index.ts
+tsc
+tsc index.ts
+yarn build
+py
+yarn build
+yarn dev
+curl
+dotnet -v
+dotnet --version
+dotnet --list-sdks
+cd devlo
+cd DevLocal\
+cd shared-components\
+code .
+yarn build
+cd shared-components\
+code .
+yarn build
+yarn upgrade basin-components
+yarn dev
+yarn build
+yarn build
+let a = "x"
+node
+node
+exit
+cd Downloads\
+mkdir nodebuildwebapp
+cd nodebuildwebapp\
+npm init
+code .
+exit
+node
+node
+exit
+cd Downloads\
+mkdir nodebuildwebapp
+cd nodebuildwebapp\
+npm init
+code .
+exit
+yarn add chalk@1.1.3
+yarn add express@4.15.2
+node app.js
+yarn add debug@2.6.6
+set DEBUG=* & node app.js
+yarn add morgan@1.8.1
+yarn add bootstrap@3.3.7 jquery@3.2.1
+set DEBUG=app & node app.js
+cd Downloads\
+git clone https://github.com/ardalis/CleanArchitecture.git
+cd Downloads\
+mkdir stage0test
+code stage0test
+yarn install
+yarn test
+dotnet 
+dotnet  --list-sdks
+dotnet  --list-runtimes
+ls
+cd Downloads\
+mkdir testing
+mkdir Sample
+cd Sample
+mkdir testing
+mkdir Sample
+cd Sample
+dotnet new webapi -n SpeakerMeet.API
+dotnet new
+dotnet new xunit -n SpeakerMeet.Test
+dotnet tests
+cd SpeakerMeet.Test\
+dotnet test
+git init
+git add *
+git remote add origin https://github.com/mattferderer/Asana-Chrome-Extension.git
