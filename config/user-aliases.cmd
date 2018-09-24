@@ -13,5 +13,6 @@ history=cat "%CMDER_ROOT%\config\.history"
 unalias=alias /d $1
 vi=vim $*
 cmderr=cd /d "%CMDER_ROOT%"
-nodeserver=light-server -s . -p 7000
 pythonserver=python -m SimpleHTTPServer 7000
+nodeserver=http-server
+ns=npm install --save $1
